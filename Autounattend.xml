@@ -223,8 +223,8 @@
                 <SynchronousCommand wcm:action="add">
                     <Order>31</Order>
                     <RequiresUserInput>false</RequiresUserInput>
-                    <CommandLine>cmd /C netsh wlan add profile filename="./Wi-Fi-Santos.xml" user=all</CommandLine>
-                    <Description>Wifi Santos</Description>
+                    <CommandLine>cmd /C netsh wlan add profile filename="./Wi-Fi.xml" user=all</CommandLine>
+                    <Description>Wifi</Description>
                 </SynchronousCommand>
                 <SynchronousCommand wcm:action="add">
                     <Order>32</Order>
